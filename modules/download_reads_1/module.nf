@@ -12,7 +12,7 @@ process download_reads_1 {
 
 #accession='$accession'
 #fasterq-dump $accession
-wget https://lifebit-featured-datasets.s3.eu-west-1.amazonaws.com/pipelines/parabricks/example/data/fastq/testdata-2X_2.fq.gz
+wget https://gel-lifebit-featured-datasets.s3.eu-west-1.amazonaws.com/pipelines/parabricks/example/data/fastq/testdata-2X_2.fq.gz
     """
 
 }
